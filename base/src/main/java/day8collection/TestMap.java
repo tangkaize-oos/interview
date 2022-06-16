@@ -46,6 +46,8 @@ public class TestMap {
         treeMap.put("key1", "value");
         treeMap.put("aa", "Sada");
 
+        System.out.println("treeMap = " + treeMap);
+
 
     }
 

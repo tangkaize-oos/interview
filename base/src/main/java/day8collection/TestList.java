@@ -61,6 +61,7 @@ public class TestList {
         stack.pop();
         System.out.println("stack = " + stack);
 
+
     }
 
 }
